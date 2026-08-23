@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inforegulierung-cyber.github.io/sitemap.xml
